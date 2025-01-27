@@ -1,0 +1,8 @@
+ydata-profiling==4.12.1
+scikit-learn==1.6.0
+pandas==2.2.2
+matplotlib==3.9.4
+plotly==5.18.0
+json5==0.9.25
+joblib==1.4.2
+black==24.1.1

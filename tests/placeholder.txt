@@ -1,0 +1,8 @@
+
+This is a placeholder file.
+___________________________________
+!DO NOT CONFUSE WITH MODEL TESTING!
+This directory is dedicated to code test coverage only and not models' evaluation.
+___________________________________
+
+Please delete this file as soon as the directory is in use.
